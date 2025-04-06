@@ -98,7 +98,8 @@ z-index: 1;}
     height: 90px;
     width: 0;
     color: #c2c2c2;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Great Vibes', cursive;
+      font-weight: 300;
   }
   .date-text1{
     animation:ani 1s forwards;
