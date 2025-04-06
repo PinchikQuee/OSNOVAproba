@@ -10,6 +10,7 @@ body {
 .h1-name {
     font-family: 'Times New Roman', Times, serif;
     font-size:60px;
+    z-opacity:1;
 }
 .name1 {
     color:rgb(255, 192, 241);
