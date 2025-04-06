@@ -13,8 +13,11 @@ body {
     z-opacity:1;
     font-weight: 300;
 }
-    .dear-friends {
+    .g2-dear {
      font-family: 'Dancing Script', cursive;
+    }
+    .dear-friends {
+        margin-top:5%;
     }
 
 
