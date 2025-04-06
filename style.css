@@ -210,7 +210,7 @@ z-index: 1;}
   
   .star-center-2 {
     top: 35%;
-    left: 35%;
+    left: 25%;
     transform: translate(-50%, -50%);
     transform: rotate(-30deg);
     pointer-events:none;
