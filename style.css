@@ -8,6 +8,10 @@ body {
     position: relative;
     
   }
+
+.h1-name {
+    font-size:60px;
+}
   
   .container {
     max-width: 420px;
