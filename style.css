@@ -7,17 +7,17 @@ body {
     background-size: cover;
     position: relative;
     
-  }
-.name1 {
-    color:pink;
-}
-.name2 {
-    color:blue;
-}
-
 .h1-name {
+    font-family: 'Times New Roman', Times, serif;
     font-size:60px;
 }
+.name1 {
+    color:rgb(255, 192, 241);
+}
+.name2 {
+    color:rgb(196, 226, 255);
+}
+
   
   .container {
     max-width: 420px;
