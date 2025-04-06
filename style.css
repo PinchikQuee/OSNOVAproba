@@ -8,6 +8,12 @@ body {
     position: relative;
     
   }
+.name1 {
+    color:pink;
+}
+.name2 {
+    color:blue;
+}
 
 .h1-name {
     font-size:60px;
