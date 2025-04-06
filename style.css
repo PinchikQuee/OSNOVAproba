@@ -62,10 +62,11 @@ body {
 z-index: 1;}
     
     .img-main {
-        width: 11%;
-        height: 30%;
- 
-  
+        width: 80%;
+        height: auto;
+ display:block;
+  margni:0 auto;
+        max-width:300px;
         margin-bottom: 24px;
         border-radius: 10px;
         
