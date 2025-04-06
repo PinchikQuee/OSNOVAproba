@@ -66,9 +66,9 @@ z-index: 1;}
         height: auto;
  display:block;
   margni:0 auto;
-        max-width:300px;
+        max-width:80%;
         margin-bottom: 24px;
-        border-radius: 10px;
+        border-radius: 16px;
         
         position: absolute;
         z-index: 1;
