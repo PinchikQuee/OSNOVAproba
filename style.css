@@ -70,11 +70,13 @@ body {
     margin-bottom: 24px;
     border-radius: 10px;
     left: 100%;
+      object-fit:cover;
 z-index: 1;}
     
     .img-main {
         width: 50%;
         height: 30%;
+         object-fit:cover;
  display:block;
   margni:0 auto;
         max-width:50%;
