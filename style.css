@@ -8,16 +8,11 @@ body {
     position: relative;
     
 .h1-name {
-    font-family: 'Times New Roman', Times, serif;
+  font-family:'Snell Roundhand, cursive';
     font-size:60px;
     z-opacity:1;
 }
-.name1 {
-    color:rgb(255, 192, 241, 1);
-}
-.name2 {
-    color:rgb(196, 226, 255, 1);
-}
+
 
   
   .container {
