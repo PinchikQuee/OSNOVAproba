@@ -94,19 +94,19 @@ z-index: 1;}
   .date-text1{
     animation:ani 1s forwards;
     top: 13%;
-    left:55.5%; 
+    left:60.5%; 
     position: absolute;
     
   }
   .date-text2{
     animation:ani 2s forwards;
-    left: 56.5%;
+    left: 61.5%;
     top: 21%;
     position: absolute;
   }
   .date-text3{
     animation:ani 3s forwards;
-    left: 57.5%;
+    left: 62.5%;
     top: 29%;
     position: absolute;
   }
